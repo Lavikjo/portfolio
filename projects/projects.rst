@@ -7,4 +7,7 @@
 .. description: 
 .. type: text
 
-Hurrdurr intial site
+ 
+This site contains :doc:`plastics-product-design`
+
+And here we have :doc:`add-basics`
