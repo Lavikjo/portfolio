@@ -37,17 +37,24 @@
 /* Prevent scroll on narrow devices */
 html,
 body {
+  background: url("../board.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   overflow-x: hidden;
+  color: #FF3323;
 }
 
 html {
+
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
-  color: #313131;
+  color: #ff1919;
   letter-spacing: -.025rem;
 }
 
@@ -102,15 +109,15 @@ h1, h2, h3, h4, h5, h6 {
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #505050;
+  color: #ff1919;
 }
 .masthead-title a {
-  color: #505050;
+  color: #ff1919;
 }
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;
-  color: #c0c0c0;
+  color: #ff1919
   letter-spacing: 0;
 }
 
@@ -315,7 +322,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: #ff1919;
 }
 .page-title,
 .post-title {
@@ -345,10 +352,10 @@ a.sidebar-nav-item:focus {
 }
 .related-posts li small {
   font-size: 75%;
-  color: #999;
+  color: #FF3323;
 }
 .related-posts li a:hover {
-  color: #268bd2;
+  color: #FF3323;
   text-decoration: none;
 }
 .related-posts li a:hover small {
@@ -450,7 +457,7 @@ a.pagination-item:hover {
 .theme-base-08 .container a,
 .theme-base-08 .sidebar-toggle,
 .theme-base-08 .related-posts li a:hover {
-  color: #ac4142;
+  color: #FF3323;
 }
 .theme-base-08 .sidebar-toggle:before {
   background-image: -webkit-linear-gradient(to bottom, #ac4142, #ac4142 20%, #fff 20%, #fff 40%, #ac4142 40%, #ac4142 60%, #fff 60%, #fff 80%, #ac4142 80%, #ac4142 100%);

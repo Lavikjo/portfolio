@@ -19,7 +19,11 @@ Due to the nature of the course I was part of two teams.
 First try
 ---------------------------------
 
-After the first pitch our 
+I was paired with industrial engineering student in the first phase of the course.
+Our initial idea as a pair was to utilize 3D-printing for manufacturing cycling helmets with highly complex structure.
+The complex *honeycomb* structure isn't possible with traditional manufacturing methods. The idea was based on study done in `Cardiff University in Great Britain
+<http://www.cardiff.ac.uk/news/view/177300-material-to-prevent-brain-injuries-backed-by-nfl>`_.
+After the first pitch our idea didn't carry on.
 
 ----
 
@@ -28,22 +32,24 @@ Second chance
 
 I was attracted to the second team by the possibility of changing the initial idea after the first pitch.
 Our team was multidisciplinary having one electrical, one bioinformatics and one computer science student. 
-Our design side was reinforced by an industrial designer.
+Our design side was reinforced by an industrial designer. We brainstormed throught different ideas and business models.
+One of the strong suits of 3D-printing is heavy customization which we wanted to utilize in our idea.
+We ended up doing a subscription jewellery service with custom jewellery not available from anywhere else.
+We wanted to have different designs every month shipped to customers door.
+Exclusiveness of products offered through our service was aimed to appeal to fashion bloggers and early adaptors.
+This was also an aspect in reducing the marketing costs of our service. 
+It relied heavily on word of mouth offered by bloggers and passionate customers.
 
 ----
 
-Requirements
-------------
-
-dsds
-
-
------
-
-Business development
+Proving the idea
 --------------------
 
-sdsds
+To prove our idea in the Dragon's Den we had to convince venture capitalists that the idea could create value for the customers.
+Our designer sketched a few different jewellery designs. I was responsible for moving the concepts into physical realm with 3D-printing.
+It took me around one workday to print and treat all the pieces we wanted to showcase. It was trivial to print rings of different sizes in quick succession. We also had necklace with dynamic shape to emphasize the choice of 3D-printing.
+
+
 
 
 ----
