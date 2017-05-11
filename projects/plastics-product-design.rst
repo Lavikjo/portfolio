@@ -45,7 +45,6 @@ Requirements
 ------------
 
 
-
 Requirement for the charging controller inside the *Catchbox* was to be as small as possible.
 Looking at all the existing solutions, they didn't fulfill this requirement.
 I wanted to try my hand at implementing a small form factor printed circuit board for charging NiMH batteries.
