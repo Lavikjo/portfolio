@@ -58,14 +58,12 @@ Our designer sketched a few different jewellery designs. I was responsible for m
 It took me around one workday to print and treat all the pieces we wanted to showcase. It was trivial to print rings of different sizes in quick succession. We also had necklace with dynamic shape to emphasize the choice of 3D-printing.
 
 
-
-
 ----
 
 Summary
 -------
 
-It proved quite hard to come up with an idea that would be profitable and with reasonable price. We gathered all different costs into one spreadsheet. This gave quite good perspective on cost breakdown in business model focusing on physical products.
+It proved quite hard to come up with an idea that would be profitable and with reasonable price. We gathered all different costs into one spreadsheet. This gave quite good perspective on cost breakdown in business model focusing on physical products. The course also taught me pitching.
 
 
 **Things I learned:**
