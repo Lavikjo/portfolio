@@ -1,0 +1,4 @@
+Sitemap: https://jotain.dy.fi/sitemapindex.xml
+
+User-Agent: *
+Host: jotain.dy.fi
