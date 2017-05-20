@@ -6,68 +6,12 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://jotain.dy.fi/authors/joel-lavikainen.xml</loc>
-  <lastmod>2017-01-17T23:56:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jotain.dy.fi/authors/roberto-alsina.xml</loc>
-  <lastmod>2017-01-17T23:56:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jotain.dy.fi/categories/aaltonaut.xml</loc>
-  <lastmod>2017-01-17T23:56:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jotain.dy.fi/categories/blog.xml</loc>
-  <lastmod>2017-01-17T23:56:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jotain.dy.fi/categories/cat_nikola.xml</loc>
-  <lastmod>2017-01-17T23:56:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jotain.dy.fi/categories/cat_project.xml</loc>
-  <lastmod>2017-01-17T23:56:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jotain.dy.fi/categories/course.xml</loc>
-  <lastmod>2017-01-17T23:56:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jotain.dy.fi/categories/demo.xml</loc>
-  <lastmod>2017-01-17T23:56:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jotain.dy.fi/categories/learning.xml</loc>
-  <lastmod>2017-01-17T23:56:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jotain.dy.fi/categories/nikola.xml</loc>
-  <lastmod>2017-01-17T23:56:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jotain.dy.fi/categories/plastics.xml</loc>
-  <lastmod>2017-01-17T23:56:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jotain.dy.fi/categories/product-design.xml</loc>
-  <lastmod>2017-01-17T23:56:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jotain.dy.fi/categories/projects.xml</loc>
-  <lastmod>2017-01-17T23:56:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jotain.dy.fi/categories/python.xml</loc>
-  <lastmod>2017-01-17T23:56:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://jotain.dy.fi/galleries/demo/rss.xml</loc>
-  <lastmod>2017-05-20T14:51:00Z</lastmod>
+  <lastmod>2017-05-20T15:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jotain.dy.fi/galleries/rss.xml</loc>
-  <lastmod>2017-05-20T14:51:00Z</lastmod>
+  <lastmod>2017-05-20T15:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jotain.dy.fi/rss.xml</loc>
@@ -75,6 +19,6 @@
  </sitemap>
  <sitemap>
   <loc>https://jotain.dy.fi/sitemap.xml</loc>
-  <lastmod>2017-05-20T14:56:00Z</lastmod>
+  <lastmod>2017-05-20T17:38:00Z</lastmod>
  </sitemap>
 </sitemapindex>

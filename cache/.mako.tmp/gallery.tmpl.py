@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1495301345.3817828
+_modified_time = 1495301918.8561718
 _enable_loop = True
 _template_filename = 'templates/gallery.tmpl'
 _template_uri = 'gallery.tmpl'
@@ -26,6 +26,6 @@ def render_body(context,**pageargs):
 
 """
 __M_BEGIN_METADATA
-{"uri": "gallery.tmpl", "line_map": {"16": 0, "27": 21, "21": 1}, "source_encoding": "ascii", "filename": "templates/gallery.tmpl"}
+{"source_encoding": "ascii", "filename": "templates/gallery.tmpl", "line_map": {"16": 0, "27": 21, "21": 1}, "uri": "gallery.tmpl"}
 __M_END_METADATA
 """
