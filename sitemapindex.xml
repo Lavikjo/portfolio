@@ -6,19 +6,11 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://jotain.dy.fi/galleries/demo/rss.xml</loc>
-  <lastmod>2017-05-20T15:53:00Z</lastmod>
+  <loc>http://joellavikainen.dy.fi/rss.xml</loc>
+  <lastmod>2017-05-20T20:15:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://jotain.dy.fi/galleries/rss.xml</loc>
-  <lastmod>2017-05-20T15:53:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jotain.dy.fi/rss.xml</loc>
-  <lastmod>2017-05-20T14:51:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jotain.dy.fi/sitemap.xml</loc>
-  <lastmod>2017-05-20T17:38:00Z</lastmod>
+  <loc>http://joellavikainen.dy.fi/sitemap.xml</loc>
+  <lastmod>2017-05-20T20:15:00Z</lastmod>
  </sitemap>
 </sitemapindex>
