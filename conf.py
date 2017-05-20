@@ -18,7 +18,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Joel Lavikainen"  # (translatable)
-BLOG_TITLE = "Aaltonaut portfolio"  # (translatable)
+BLOG_TITLE = "Portfolio"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://jotain.dy.fi/"
@@ -174,8 +174,7 @@ THEME_COLOR = '#5670d4'
 # of a blog, while PAGES are just independent HTML pages.
 #
 
-POSTS = (
-)
+
 PAGES = (
     ("projects/*.rst", "projects", "story.tmpl"),
     ("pages/*.rst", "pages", "story.tmpl"),
@@ -557,8 +556,8 @@ REDIRECTIONS = []
 # For more details, read the manual:
 # https://getnikola.com/handbook.html#deploying-to-github
 # You will need to configure the deployment branch on GitHub.
-GITHUB_SOURCE_BRANCH = 'src'
-GITHUB_DEPLOY_BRANCH = 'master'
+GITHUB_SOURCE_BRANCH = 'master'
+GITHUB_DEPLOY_BRANCH = 'deploy'
 
 # The name of the remote where you wish to push to, using github_deploy.
 GITHUB_REMOTE_NAME = 'origin'

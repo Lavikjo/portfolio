@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Aaltonaut portfolio (plastics)</title><link>https://jotain.dy.fi/</link><description></description><atom:link href="https://jotain.dy.fi/categories/plastics.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Wed, 04 Jan 2017 10:50:17 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Plastics Product Design</title><link>https://jotain.dy.fi/posts/plastics-product-design/</link><dc:creator>Joel Lavikainen</dc:creator><description>&lt;div&gt;&lt;p&gt;In the course Plastics Product Design we were given the task to prototype a charging platform for the &lt;em&gt;Catchbox&lt;/em&gt;.&lt;/p&gt;
-&lt;a class="reference external image-reference" href="http://getcatchbox.com/"&gt;&lt;img alt="Catchbox, Throwable Microphone" class="align-center" src="http://getcatchbox.com/wp-content/themes/catchbox01/img/green-box-mobile.png" style="width: 282.09999999999997px; height: 284.9px;"&gt;&lt;/a&gt;
-&lt;p&gt;Things I learned:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Electronic design&lt;/li&gt;
-&lt;li&gt;Prototyping&lt;/li&gt;
-&lt;li&gt;Iterate often, fail fast!&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><category>aaltonaut</category><category>course</category><category>learning</category><category>plastics</category><category>product design</category><category>projects</category><guid>https://jotain.dy.fi/posts/plastics-product-design/</guid><pubDate>Wed, 04 Jan 2017 09:46:37 GMT</pubDate></item></channel></rss>

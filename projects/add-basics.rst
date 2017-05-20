@@ -30,12 +30,6 @@ After the first pitch our idea didn't unfortunately reach the next round.
 Second chance
 ------------------------------------------
 
-.. image:: /images/logo_addbasics.png
-	:height: 1075
-	:width: 1520
-	:scale: 30 %
-	:alt: Korubox jewellery subscription service
-	:align: right
 
 I was attracted to the second team by the possibility of changing the initial idea after the first pitch.
 Our team was multidisciplinary having one electrical, one bioinformatics and one computer science student. 
@@ -72,3 +66,8 @@ It proved quite hard to come up with an idea that would be profitable and with r
 * When and why to use additive manufacturing
 * Developing business
 * Brainstorming
+
+
+.. thumbnail:: /images/logo_addbasics.png
+.. thumbnail:: /images/frontispiece.jpg
+.. thumbnail:: /images/illus_001.jpg

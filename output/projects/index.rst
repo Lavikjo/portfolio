@@ -11,3 +11,7 @@
 This site contains :doc:`plastics-product-design`
 
 And here we have :doc:`add-basics`
+
+And :doc:`product-idea`
+
+and :doc:`electronics-workshop`

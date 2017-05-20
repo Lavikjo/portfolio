@@ -19,7 +19,7 @@
  </url>
  <url>
   <loc>https://jotain.dy.fi/archive.html</loc>
-  <lastmod>2017-05-11T19:16:00Z</lastmod>
+  <lastmod>2017-05-20T14:51:00Z</lastmod>
  </url>
  <url>
   <loc>https://jotain.dy.fi/authors/</loc>
@@ -103,7 +103,7 @@
  </url>
  <url>
   <loc>https://jotain.dy.fi/listings/hello.py.html</loc>
-  <lastmod>2017-05-11T19:16:00Z</lastmod>
+  <lastmod>2017-05-20T14:51:00Z</lastmod>
  </url>
  <url>
   <loc>https://jotain.dy.fi/pages/about-nikola/</loc>
@@ -179,14 +179,22 @@
  </url>
  <url>
   <loc>https://jotain.dy.fi/projects/</loc>
-  <lastmod>2017-05-11T19:16:00Z</lastmod>
+  <lastmod>2017-05-20T14:56:00Z</lastmod>
  </url>
  <url>
   <loc>https://jotain.dy.fi/projects/add-basics/</loc>
   <lastmod>2017-05-11T19:16:00Z</lastmod>
  </url>
  <url>
+  <loc>https://jotain.dy.fi/projects/electronics-workshop/</loc>
+  <lastmod>2017-05-20T14:56:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://jotain.dy.fi/projects/plastics-product-design/</loc>
   <lastmod>2017-05-11T19:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jotain.dy.fi/projects/product-idea/</loc>
+  <lastmod>2017-05-20T14:37:00Z</lastmod>
  </url>
 </urlset>

@@ -30,12 +30,6 @@ After the first pitch our idea didn't unfortunately reach the next round.
 Second chance
 ------------------------------------------
 
-.. image:: /images/logo_addbasics.png
-	:height: 1075
-	:width: 1520
-	:scale: 30 %
-	:alt: Korubox jewellery subscription service
-	:align: right
 
 I was attracted to the second team by the possibility of changing the initial idea after the first pitch.
 Our team was multidisciplinary having one electrical, one bioinformatics and one computer science student. 
@@ -58,14 +52,12 @@ Our designer sketched a few different jewellery designs. I was responsible for m
 It took me around one workday to print and treat all the pieces we wanted to showcase. It was trivial to print rings of different sizes in quick succession. We also had necklace with dynamic shape to emphasize the choice of 3D-printing.
 
 
-
-
 ----
 
 Summary
 -------
 
-It proved quite hard to come up with an idea that would be profitable and with reasonable price. We gathered all different costs into one spreadsheet. This gave quite good perspective on cost breakdown in business model focusing on physical products.
+It proved quite hard to come up with an idea that would be profitable and with reasonable price. We gathered all different costs into one spreadsheet. This gave quite good perspective on cost breakdown in business model focusing on physical products. The course also taught me pitching.
 
 
 **Things I learned:**
@@ -74,3 +66,8 @@ It proved quite hard to come up with an idea that would be profitable and with r
 * When and why to use additive manufacturing
 * Developing business
 * Brainstorming
+
+
+.. thumbnail:: /images/logo_addbasics.png
+.. thumbnail:: /images/frontispiece.jpg
+.. thumbnail:: /images/illus_001.jpg
