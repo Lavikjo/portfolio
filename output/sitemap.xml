@@ -6,63 +6,51 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://jotain.dy.fi/</loc>
-  <lastmod>2017-05-11T19:16:00Z</lastmod>
+  <loc>http://joellavikainen.dy.fi/</loc>
+  <lastmod>2017-05-20T20:15:00Z</lastmod>
  </url>
  <url>
-  <loc>https://jotain.dy.fi/archive.html</loc>
-  <lastmod>2017-05-20T14:51:00Z</lastmod>
+  <loc>http://joellavikainen.dy.fi/about/</loc>
+  <lastmod>2017-05-20T20:15:00Z</lastmod>
  </url>
  <url>
-  <loc>https://jotain.dy.fi/categories/</loc>
-  <lastmod>2017-05-20T17:29:00Z</lastmod>
+  <loc>http://joellavikainen.dy.fi/archive.html</loc>
+  <lastmod>2017-05-20T20:15:00Z</lastmod>
  </url>
  <url>
-  <loc>https://jotain.dy.fi/galleries/</loc>
-  <lastmod>2017-05-11T19:16:00Z</lastmod>
+  <loc>http://joellavikainen.dy.fi/categories/</loc>
+  <lastmod>2017-05-20T20:15:00Z</lastmod>
  </url>
  <url>
-  <loc>https://jotain.dy.fi/galleries/demo/</loc>
-  <lastmod>2017-05-11T19:16:00Z</lastmod>
+  <loc>http://joellavikainen.dy.fi/contact/</loc>
+  <lastmod>2017-05-20T20:15:00Z</lastmod>
  </url>
  <url>
-  <loc>https://jotain.dy.fi/listings/</loc>
-  <lastmod>2017-05-11T19:16:00Z</lastmod>
+  <loc>http://joellavikainen.dy.fi/posts/</loc>
+  <lastmod>2017-05-20T20:15:00Z</lastmod>
  </url>
  <url>
-  <loc>https://jotain.dy.fi/listings/__pycache__/</loc>
-  <lastmod>2017-05-11T19:16:00Z</lastmod>
+  <loc>http://joellavikainen.dy.fi/projects/</loc>
+  <lastmod>2017-05-20T20:15:00Z</lastmod>
  </url>
  <url>
-  <loc>https://jotain.dy.fi/listings/hello.py.html</loc>
-  <lastmod>2017-05-20T14:51:00Z</lastmod>
+  <loc>http://joellavikainen.dy.fi/projects/add-basics/</loc>
+  <lastmod>2017-05-20T20:15:00Z</lastmod>
  </url>
  <url>
-  <loc>https://jotain.dy.fi/pages/contact/</loc>
-  <lastmod>2017-05-11T19:16:00Z</lastmod>
+  <loc>http://joellavikainen.dy.fi/projects/electronics-workshop/</loc>
+  <lastmod>2017-05-20T20:15:00Z</lastmod>
  </url>
  <url>
-  <loc>https://jotain.dy.fi/pages/skills/</loc>
-  <lastmod>2017-05-11T19:16:00Z</lastmod>
+  <loc>http://joellavikainen.dy.fi/projects/plastics-product-design/</loc>
+  <lastmod>2017-05-20T20:15:00Z</lastmod>
  </url>
  <url>
-  <loc>https://jotain.dy.fi/projects/</loc>
-  <lastmod>2017-05-20T14:56:00Z</lastmod>
+  <loc>http://joellavikainen.dy.fi/projects/product-idea/</loc>
+  <lastmod>2017-05-20T20:15:00Z</lastmod>
  </url>
  <url>
-  <loc>https://jotain.dy.fi/projects/add-basics/</loc>
-  <lastmod>2017-05-11T19:16:00Z</lastmod>
- </url>
- <url>
-  <loc>https://jotain.dy.fi/projects/electronics-workshop/</loc>
-  <lastmod>2017-05-20T14:56:00Z</lastmod>
- </url>
- <url>
-  <loc>https://jotain.dy.fi/projects/plastics-product-design/</loc>
-  <lastmod>2017-05-11T19:16:00Z</lastmod>
- </url>
- <url>
-  <loc>https://jotain.dy.fi/projects/product-idea/</loc>
-  <lastmod>2017-05-20T14:37:00Z</lastmod>
+  <loc>http://joellavikainen.dy.fi/skills/</loc>
+  <lastmod>2017-05-20T20:15:00Z</lastmod>
  </url>
 </urlset>

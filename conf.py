@@ -18,13 +18,13 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Joel Lavikainen"  # (translatable)
-BLOG_TITLE = "Portfolio"  # (translatable)
+BLOG_TITLE = "Joel Lavikainen"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://jotain.dy.fi/"
+SITE_URL = 'http://joellavikainen.dy.fi/'
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "https://jotain.dy.fi/"
+#BASE_URL = "joellavikainen.dy.fi/"
 BLOG_EMAIL = "joel.lavikainen@aalto.fi"
 BLOG_DESCRIPTION = "Aaltonaut minor learning portfolio"  # (translatable)
 
@@ -135,13 +135,13 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
     ("/projects/", "Projects"),
-    ("/pages/skills", "Skills"),
-    ("/pages/contact", "Contact"),
+    ("/skills", "Skills"),
+    ("/contact", "Contact"),
     ),
 }
 
 # Name of the theme to use.
-THEME = "custom"
+THEME = "bootstrap3"
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
@@ -177,9 +177,9 @@ THEME_COLOR = '#5670d4'
 
 PAGES = (
     ("projects/*.rst", "projects", "story.tmpl"),
-    ("pages/*.rst", "pages", "story.tmpl"),
-    ("pages/*.txt", "pages", "story.tmpl"),
-    ("pages/*.html", "pages", "story.tmpl"),
+    ("pages/*.rst", "", "story.tmpl"),
+    ("pages/*.txt", "", "story.tmpl"),
+    ("pages/*.html", "", "story.tmpl"),
 )
 
 
@@ -469,7 +469,7 @@ HIDDEN_AUTHORS = ['Guest']
 
 # Final location for the main blog page and sibling paginated pages is
 # output / TRANSLATION[lang] / INDEX_PATH / index-*.html
-# INDEX_PATH = "projects"
+INDEX_PATH = "posts"
 
 # Optional HTML that displayed on “main” blog index.html files.
 # May be used for a greeting. (translatable)
@@ -619,7 +619,7 @@ GITHUB_COMMIT_SOURCE = True
 # use this feature if you do not understand what this means.
 
 # Compiler to process LESS files.
-# LESS_COMPILER = 'lessc'
+# LESS_COMPILER = 'lessc'rojects/
 
 # A list of options to pass to the LESS compiler.
 # Final command is: LESS_COMPILER LESS_OPTIONS file.less
