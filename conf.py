@@ -24,7 +24,7 @@ BLOG_TITLE = "Joel Lavikainen"  # (translatable)
 SITE_URL = 'http://joellavikainen.dy.fi/'
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-#BASE_URL = "joellavikainen.dy.fi/"
+BASE_URL = "http://joellavikainen.dy.fi/"
 BLOG_EMAIL = "joel.lavikainen@aalto.fi"
 BLOG_DESCRIPTION = "Aaltonaut minor learning portfolio"  # (translatable)
 
