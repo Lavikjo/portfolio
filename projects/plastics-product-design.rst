@@ -72,6 +72,6 @@ After that I could have iterated and worked more on minimizing the design when i
 * Prototyping
 * Iterate often, fail fast!
 
-.. thumbnail:: /images/catchbox.png
 .. thumbnail:: /images/ltc4060.png
 .. thumbnail:: /images/circuit.png
+.. thumbnail:: /images/catchboxproto.jpg

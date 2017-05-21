@@ -33,3 +33,6 @@ In the course I learned about various topics related to product development, for
 * Identifying customer needs
 * Video planning
 * Typical materials used in mass production
+
+.. thumbnail:: /images/storyboard.jpg
+.. youtube:: cc0iaDDwwRE

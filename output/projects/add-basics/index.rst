@@ -69,5 +69,4 @@ It proved quite hard to come up with an idea that would be profitable and with r
 
 
 .. thumbnail:: /images/logo_addbasics.png
-.. thumbnail:: /images/frontispiece.jpg
-.. thumbnail:: /images/illus_001.jpg
+.. thumbnail:: /images/prints.jpeg

@@ -14,7 +14,7 @@ I have accumulated skills through various projects in school and industry. Proje
 Electronics
 ----------------
 
-I like to design and create electrical devices. I am mostly interested in embedded systems and PCB design. I have created circuit boards for various projects. My experience with electronics range from designing radio transmitters to connecting my coffee pot to internet. (:doc:`plastics-product-design`, :doc:`electronics-workshop`)
+I like to design and build electrical devices. I am mostly interested in embedded systems and PCB design. I have created circuit boards for various projects. My experience with electronics range from designing radio transmitters to connecting my coffee pot to internet. (:doc:`plastics-product-design`, :doc:`electronics-workshop`)
 
 ----
 
@@ -32,3 +32,10 @@ I have worked in projects creating proof-of-concept, functional and mockup proto
 
 I am familiar with additive manufacturing techniques and have built my own 3D-printer. I have used 3D-printer for creating enclosures and functional parts for prototypes. (:doc:`add-basics`)
 
+.. thumbnail:: /images/printer.jpg
+	:scale: 70 %
+.. thumbnail:: /images/benchy.jpg
+.. thumbnail:: /images/phonestand.jpeg 
+	:height: 4160	
+	:width: 2340
+	:scale: 7 %
