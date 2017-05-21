@@ -34,5 +34,11 @@ In the course I learned about various topics related to product development, for
 * Video planning
 * Typical materials used in mass production
 
-.. thumbnail:: /images/storyboard.jpg
+.. thumbnail:: /images/storyboard.jpg 
+	:height: 2448
+	:width: 3264
+	:scale: 11 %
+	:align: left
 .. youtube:: cc0iaDDwwRE
+	:height: 280
+	:width: 320

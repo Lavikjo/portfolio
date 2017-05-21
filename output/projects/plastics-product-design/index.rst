@@ -75,3 +75,6 @@ After that I could have iterated and worked more on minimizing the design when i
 .. thumbnail:: /images/ltc4060.png
 .. thumbnail:: /images/circuit.png
 .. thumbnail:: /images/catchboxproto.jpg
+	:width: 901
+	:height: 1600
+	:scale: 20 %

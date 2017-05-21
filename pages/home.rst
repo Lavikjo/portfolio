@@ -16,7 +16,7 @@
 
 Hello there! I am Joel Lavikainen, a 22 year-old student of Electrical Engineering at Aalto University.
 
-I am currently a 3rd year student and almost finished with my bachelors. For my minor I studied interdiscriplinary product development in `Aaltonaut <http://aaltonaut.fi/>`_ minor programme.
+I am currently a 3rd year student and almost finished with my bachelors. For my minor I studied interdisciplinary product development in `Aaltonaut <http://aaltonaut.fi/>`_ minor programme.
 
 I have listed various projects from my minor and major here. They can be found under Projects page.
 
