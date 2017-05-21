@@ -9,14 +9,6 @@
 
 Assignment
 ----------
-.. image:: http://getcatchbox.com/wp-content/themes/catchbox01/img/green-box-mobile.png
-	:height: 407
-	:width:	403
-	:scale: 70 %
-	:alt: Catchbox, Throwable Microphone
-	:align: right
-	:target: http://getcatchbox.com/
-
 
 In the course Plastics Product Design we were given the task to prototype a platform for the *Catchbox*. 
 We were given complete freedom to implement any features that we felt were important for the user.
@@ -33,13 +25,6 @@ I was responsible for implementing the charging system modification inside the *
 
 ----
 
-.. image:: http://cds.linear.com/image/6012.png
-	:height: 722
-	:width: 912
-	:scale: 40 %
-	:alt: Charger schematic
-	:align: right
-	:target: http://www.linear.com/product/LTC4060
 
 Requirements
 ------------
@@ -65,12 +50,6 @@ Unfortunately one of the ordered parts was in incorrect QFN-package, which requi
 I didn't have access to one, but I tried assembling carefully with regular hot air tool.
 This failed completely, because without soldermask the whole board around the component oxidized fully, rendering the whole board useless.
 
-.. image:: https://644db4de3505c40a0444-327723bce298e3ff5813fb42baeefbaa.ssl.cf1.rackcdn.com/72612c174822ad0645c9b8ac110fb71d.png
-	:height: 130
-	:width: 200
-	:scale: 100 %
-	:alt: Charger PCB
-	:align: right
 
 In the timeframe of the course I didn't manage to assemble working board.
 Learning from the failure, I corrected the errors in the board design and ordered more suitable parts for hand assembly.
@@ -93,3 +72,6 @@ After that I could have iterated and worked more on minimizing the design when i
 * Prototyping
 * Iterate often, fail fast!
 
+.. thumbnail:: /images/catchbox.png
+.. thumbnail:: /images/ltc4060.png
+.. thumbnail:: /images/circuit.png
