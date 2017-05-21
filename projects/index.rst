@@ -7,11 +7,19 @@
 .. description: 
 .. type: text
 
+
+------------------------
+Aaltonaut minor projects
+------------------------
+
+AAN-C2006 :doc:`product-idea` (Currently Product Analysis) `Course description <http://aaltonaut.fi/courses/product-analysis/>`__
  
-This site contains :doc:`plastics-product-design`
+AAN-C2009 :doc:`plastics-product-design` (Currently Designing an Electronic Device for Business and Production)  `Course description <http://aaltonaut.fi/courses/designing-an-electronic-device-for-business-and-production/>`__
 
-And here we have :doc:`add-basics`
+AAN-C2003 :doc:`add-basics` `Course description <http://aaltonaut.fi/courses/add-basics/>`__
 
-And :doc:`product-idea`
+--------------
+Other projects
+--------------
 
-and :doc:`electronics-workshop`
+ELEC-C5070 :doc:`electronics-workshop`
