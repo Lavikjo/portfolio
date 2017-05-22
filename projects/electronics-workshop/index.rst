@@ -25,7 +25,7 @@ I designed the circuit for measurement and receiver units. I also designed the c
 Summary
 -------
 
-Before this course I had no previous knowledge on designing RF circuits but through extensive study I managed to design and build one. While developing the software for the microcontroller controlling the radio chip I learned that for first prototype I should put more debugging LEDs on the circuit board.
+We did comprehensive documentation on the features of our project. Documentation also contained measurements of the performance and suggestions for further improvements. Before this course I had no previous knowledge on designing RF circuits but through extensive study I managed to design and build one. While developing the software for the microcontroller controlling the radio chip I learned that for first prototype I should put more debugging LEDs on the circuit board.
 
 
 **Things I learned:**
@@ -33,6 +33,7 @@ Before this course I had no previous knowledge on designing RF circuits but thro
 * RF circuit and PCB design
 * Embedded programming
 * Functional prototyping
+* Documenting
 
 .. thumbnail:: /images/transmitter.jpg
 .. thumbnail:: /images/transmitter2.JPG 
