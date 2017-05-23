@@ -23,3 +23,5 @@ Other projects
 --------------
 
 ELEC-C5070 :doc:`electronics-workshop`
+
+Vaisala OPT100 Dissolved Gas Analyzer :doc:`dga`
