@@ -55,7 +55,7 @@ I am familiar with additive manufacturing techniques and have built my own 3D-pr
 Teamwork
 --------
 
-Aaltonaut courses are mostly done in teams which has taught me valuable skill of working with different people. In the industry I have worked in interdisplinary product development team as a trainee. From the industry I have learned working with `Lean <https://en.wikipedia.org/wiki/Lean_manufacturing>`_ and `scrum <https://en.wikipedia.org/wiki/Scrum_(software_development)>`_ principles. This means that I am familiar with using tools like `Kanban-boards <https://en.wikipedia.org/wiki/Kanban_(development)>`_ and sprints in product development process. I have used these methods daily while working with the DGA product. I have also used scrum-ban methods in agile software development while creating new guild website. (:doc:`add-basics`, :doc:`dga`)
+Aaltonaut courses are mostly done in teams which has taught me valuable skill of working with different people. In the industry I have worked in interdisplinary product development team as a trainee. From the industry I have learned working with `lean <https://en.wikipedia.org/wiki/Lean_product_development>`_ and `scrum <https://en.wikipedia.org/wiki/Scrum_(software_development)>`_ principles. In lean product development the flow is important which means that the knowledge must be reused as often as possible. This is achieved through careful documentation. In scrum project is divided into small tasks which are completed in short time intervals called sprints. This means that I am familiar with using tool like `Kanban-boards <https://en.wikipedia.org/wiki/Kanban_(development)>`_ in product development process. Kanban-board is used to track tasks which are done, still in progress or in the backlog. I have used these methods daily to track progress while working with the DGA product development team. I have also used scrum-ban methods in agile software development while creating new guild website. (:doc:`add-basics`, :doc:`dga`)
 
 
 ----
@@ -65,3 +65,5 @@ Communication
 -------------
 
 In the courses I have learned to brainstorm and present ideas. I also have learned different pitching techniques. I have tried presenting ideas in different forms, for example in video format, poster and traditional slides presentation. These have improved my skill to present myself in English. (:doc:`plastics-product-design`, :doc:`product-idea`)
+
+.. youtube:: cc0iaDDwwRE
